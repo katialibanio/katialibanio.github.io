@@ -152,7 +152,7 @@ img {
 #intro-text {
 	width: 70%;
     display: inline-block;
-    margin-top: 360px;
+    margin-top: 330px;
 }
 
 h1.main-title-text {
@@ -169,7 +169,7 @@ h1.main-title-text {
 	margin-left:7%;
 	display:inline-block;
 	vertical-align:top;
-	margin-top:360px;
+	margin-top:330px;
 }
 
 #contact-text p {
@@ -212,9 +212,9 @@ h1.main-title-text {
 
 #section-intro {height:900px;}
 
-#intro-text {margin-top:308px;}
+#intro-text {margin-top:272px;}
 
-#contact-text {margin-top:308px;}
+#contact-text {margin-top:272px;}
 
 }
 
@@ -237,9 +237,9 @@ h1.main-title-text {margin-top:8px; margin-bottom:8px;}
 
 #section-intro {height:760px;}
 
-#intro-text {width:60%; margin-top:210px;}
+#intro-text {width:60%; margin-top:204px;}
 
-#contact-text {width:30%; margin-left:7%; margin-top:210px;}
+#contact-text {width:30%; margin-left:7%; margin-top:204px;}
 
 
 }
@@ -278,7 +278,7 @@ h2 {font-size:20px;}
 
 #section-intro {height:400px;}
 
-#intro-text {margin-top:70px;}
+#intro-text {margin-top:31px;}
 
 #navigation-vertical li {font-size:16px;}
 
