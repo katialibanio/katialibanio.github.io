@@ -187,6 +187,10 @@ h1.main-title-text {
 	margin-bottom:70px;
 }
 
+.img-block img {
+	display:block;
+}
+
 #footer {
 	width:100%;
 	text-align:center;
