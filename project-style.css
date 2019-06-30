@@ -227,41 +227,61 @@ p.role-description {
 	transition: 0.4s all;
 }
 
-.next-project {
+#arrows {
 	float:right;
-	width:100%;
-	text-align:right;
+	background-color: #e1e1e1;
+	border-radius:14px;
 }
 
-.next-project h2{
-	font-weight: 200;
-	font-size:24px;
-}
-
-.next-project a h2{
-	transition: 0.4s all;
+#arrow-next {
 	display: inline-block;
+	padding:16px 22px 16px 6px;
 }
 
-.next-project a h2:hover{
+#arrow-previous {
+	display: inline-block;
+	padding:16px 6px 16px 22px;
+}
+
+#arrow-next a img{
+	transition: 0.4s all;
+}
+
+#arrow-next a img:hover{
 	transition: 0.4s all;
 	opacity:0.5;
 }
 
-.next-project img{
-	display:inline-block;
-	margin-bottom:-18px;
-	margin-left:20px;
-}
-
-.next-project a img{
+#arrow-previous a img{
 	transition: 0.4s all;
 }
 
-.next-project a img:hover{
+#arrow-previous a img:hover{
 	transition: 0.4s all;
 	opacity:0.5;
 }
+
+#back-to-top {
+	float:left;
+	background-color: #e1e1e1;
+	border-radius:14px;
+}
+
+#arrow-top {
+	display: inline-block;
+	padding:12px 15px 12px 15px;
+}
+
+#arrow-top a img{
+	transition: 0.4s all;
+}
+
+#arrow-top a img:hover{
+	transition: 0.4s all;
+	opacity:0.5;
+}
+
+
 
 
 
